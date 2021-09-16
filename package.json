@@ -1,5 +1,8 @@
 {
   "dependencies": {
-    "aws-iot-device-sdk": "^2.2.11"
+    "aws-iot-device-sdk": "^2.2.11",
+    "express": "^4.17.1",
+    "mogoose": "^0.0.1-security",
+    "nodemon": "^2.0.12"
   }
 }

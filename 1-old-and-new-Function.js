@@ -1,6 +1,5 @@
 // var name = "Nishan"
 
-// console.log("Helloworld")
 //Old version
 function sayBye(name) {
 	console.log('Hello ', name);
